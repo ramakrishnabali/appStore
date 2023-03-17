@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.listContainer {
+  margin-right: 15px;
+  background-color: transparent;
+  list-style-type: none;
+  cursor: pointer;
+}
+.tab {
+  color: #7b8794;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.isActive {
+  text-decoration: underline;
+  color: #2563eb;
+  list-style-type: none;
+  margin-right: 15px;
+  background-color: transparent;
+  cursor: pointer;
+}
